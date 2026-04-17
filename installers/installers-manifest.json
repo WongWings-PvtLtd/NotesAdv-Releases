@@ -1,0 +1,8 @@
+{
+  "version": "1.0.1",
+  "publisher": "Wong WingsPvt.Ltd",
+  "setupExe": "notepad-adv-setup.exe",
+  "setupExeVersioned": "notepad-adv-1.0.1-x64-setup.exe",
+  "msi": "notepad-adv-1.0.1-x64.msi",
+  "dmg": null
+}
